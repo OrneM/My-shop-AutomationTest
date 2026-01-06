@@ -17,6 +17,7 @@ public class Prueba1 {
         browser.manage().deleteAllCookies();
 
     // 3- access the URL
+        browser.get("http://www.automationpractice.pl/index.php");
 
     // 4- write the product you want to search for (text field)
 

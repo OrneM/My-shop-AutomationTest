@@ -31,7 +31,7 @@ public class Prueba1 {
     // 5- simulate pressing enter
         txtSearch.sendKeys(Keys.ENTER);
 
-    // 6- close the navigator
+    // 6- close the browser
         browser.close();
     }
 }
